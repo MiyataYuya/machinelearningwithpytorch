@@ -1,0 +1,3 @@
+[submodule "python-machine-learning-book-3rd-edition"]
+	path = python-machine-learning-book-3rd-edition
+	url = https://github.com/rasbt/python-machine-learning-book-3rd-edition.git
